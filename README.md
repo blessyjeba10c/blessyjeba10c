@@ -46,10 +46,10 @@
 
 | Platform   | Profile Link                                | Rating/Score |
 |------------|---------------------------------------------|--------------|
-| **LeetCode** | [LeetCode Profile](https://leetcode.com/username/)   | 🌟 1500+   |
-| **CodeChef** | [CodeChef Profile](https://www.codechef.com/users/username) | 🌟 4 Star  |
-| **Codeforces** | [Codeforces Profile](https://codeforces.com/profile/username) | 🌟 1300+   |
-| **HackerRank** | [HackerRank Profile](https://www.hackerrank.com/username)   | 🌟 Gold    |
+| **LeetCode** | [LeetCode Profile](https://leetcode.com/username/blessyjeba)   | 🌟 1500+   |
+| **CodeChef** | [CodeChef Profile](https://www.codechef.com/users/blessyjeba) | 🌟 4 Star  |
+| **Codeforces** | [Codeforces Profile](https://codeforces.com/profile/blessyjeba) | 🌟 1300+   |
+| **HackerRank** | [HackerRank Profile](https://www.hackerrank.com/blessyjeba10c)   | 🌟 Gold    |
 
 ---
 
