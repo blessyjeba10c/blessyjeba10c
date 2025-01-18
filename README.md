@@ -32,9 +32,6 @@
 ## 📈 GitHub Stats
 ![Blessy Jeba's GitHub stats](https://github-readme-stats.vercel.app/api?username=blessyjeba10c&show_icons=true&theme=radical)
 
-### 🏆 Achievements
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=blessyjeba10c&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ## 📊 Most Used Languages
@@ -58,11 +55,4 @@
 
 ---
 
-## 🎨 Fun Visuals
-```mermaid
-pie
-    title Time Spent on Programming
-    "LeetCode Practice": 40
-    "Open Source Projects": 30
-    "Learning New Tech": 20
-    "Competitive Programming": 10
+
