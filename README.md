@@ -50,9 +50,6 @@
 
 ---
 
-## 🔥 Contribution Graph
-[![Blessy Jeba's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=blessyjeba10c&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
 
 
