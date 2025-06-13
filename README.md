@@ -4,15 +4,15 @@
 
 ---
 
-## 🚀 About Me
-- 🌱 I’m currently working on **VLSI and Embedded Systems Projects**
-- 👩‍💻 I enjoy problem-solving and competitive programming.
-- 💡 Passionate about using technology to make a positive impact.
-- 🎯 Aspiring to contribute to open-source and innovative projects.
+## About Me
+- I’m currently working on **VLSI and Embedded Systems Projects**
+- I enjoy problem-solving and competitive programming.
+- Passionate about using technology to make a positive impact.
+- Aspiring to contribute to open-source and innovative projects.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ### Languages & Tools
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -29,7 +29,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![Blessy Jeba's GitHub stats](https://github-readme-stats.vercel.app/api?username=blessyjeba10c&show_icons=true&theme=radical)
 
 ---
@@ -39,16 +39,6 @@
 
 ---
 
-## 🚀 Coding Profiles
-
-| Platform   | Profile Link                                | Rating/Score |
-|------------|---------------------------------------------|--------------|
-| **LeetCode** | [LeetCode Profile](https://leetcode.com/username/blessyjeba)   | 🌟 1500+   |
-| **CodeChef** | [CodeChef Profile](https://www.codechef.com/users/blessyjeba) | 🌟 4 Star  |
-| **Codeforces** | [Codeforces Profile](https://codeforces.com/profile/blessyjeba) | 🌟 1300+   |
-| **HackerRank** | [HackerRank Profile](https://www.hackerrank.com/blessyjeba10c)   | 🌟 Gold    |
-
----
 
 
 
