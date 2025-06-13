@@ -27,12 +27,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
----
-
-## GitHub Stats
-![Blessy Jeba's GitHub stats](https://github-readme-stats.vercel.app/api?username=blessyjeba10c&show_icons=true&theme=radical)
-
----
 
 ## 📊 Most Used Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blessyjeba10c&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
