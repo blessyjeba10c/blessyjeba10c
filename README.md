@@ -1,4 +1,4 @@
-# Hi there, I'm Blessy Jeba! 👋✨
+# Hi there, I'm Blessy Jeba! 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=25&center=true&vCenter=true&lines=_Electrical+and+Electronics+Engineer;Coding+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
